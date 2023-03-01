@@ -1,0 +1,37 @@
+[
+    {
+    "nombre": "A sangre fría",
+    "genero": "no ficción",
+    "cantPaginas": 420,
+    "autor": "Truman Capote"
+    },
+    {                                               
+    "nombre": "Miles de Millones",
+    "genero": "Divulgación",
+    "cantPaginas": 590,
+    "autor": "Carl Sagan"
+},
+{
+    "nombre": "Harry Potter",
+    "genero": "fantasia",
+    "cantPaginas": 450,
+    "autor": "J.k. Rowling"
+
+},
+{
+    "nombre": "Martin Fierro",
+    "genero": "Tradicionalista",
+    "cantPaginas": 200 ,
+    "autor": "Jose Hernandez"
+},
+{
+    "nombre": "Señor de los anillos",
+    "genero": "Fantasia",
+    "cantPaginas": 500  ,
+    "autor": "J. RR Tolkien"
+}
+]
+
+
+
+
